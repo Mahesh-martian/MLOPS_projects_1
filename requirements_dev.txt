@@ -1,5 +1,4 @@
-pymongo
-pymongo[srv]
+pymongo==4.0
 dnspython
 pandas
 numpy
