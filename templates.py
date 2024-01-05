@@ -32,7 +32,6 @@ list_of_files = [
     "pyproject.toml",
     "tox.ini",
     "experiment/experiments.ipynb"
-
 ]
 
 for filepath in list_of_files:
