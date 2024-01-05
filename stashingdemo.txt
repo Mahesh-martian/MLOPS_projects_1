@@ -1,0 +1,1 @@
+this is sample file to demonstrate stashing in git 
