@@ -1,3 +1,5 @@
 this is sample file to demonstrate stashing in git 
 
+
+i am updating the file now
 third time i am modifying this file 
